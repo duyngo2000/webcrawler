@@ -1,0 +1,11 @@
+name = "duycrawler"
+type = "webpack"
+account_id = "d480b29e2ab1ffe025b72948ca3153ab" 
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+[site]
+bucket = "./build"
+entry-point = "workers-site"
